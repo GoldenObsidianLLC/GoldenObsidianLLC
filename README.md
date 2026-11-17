@@ -83,15 +83,6 @@ Public materials must keep these distinctions explicit:
 
 Do not publish unsubstantiated throughput, model-architecture, scale, compatibility, safety, security, or cost claims. Do not claim certifications, regulatory compliance, independent validation, partnerships, awards, customer deployments, or financial performance without current, attributable evidence and approval for public release.
 
-## Sources of truth and related documents
-
-- This page is the canonical public source for company identity, mission, philosophy, and portfolio hierarchy.
-- The [Products and Projects index](../02-products-and-projects/README.md) provides project navigation; each project repository remains authoritative for its implementation, releases, and project license.
-- The [Documentation Standards](../DOCUMENTATION-STANDARDS.md) govern public documentation structure and maintenance.
-- The [Licensing Policy](../05-governance-and-policies/licensing.md) governs material in this public documentation repository. The current VirgoScorpio Hub and EnginEx project READMEs identify those projects as GPL-2.0-or-later; confirm each project's license files before reuse. No company-wide documentation license overrides project-specific or third-party terms.
-
-Review this profile when the company's mission, portfolio structure, or disclosure posture materially changes. Update project status from authoritative project sources rather than copying transient release details into this page.
-
 <!--
 **GoldenObsidianLLC/GoldenObsidianLLC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
