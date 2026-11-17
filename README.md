@@ -1,6 +1,7 @@
 ---
 title: "Golden Obsidian LLC — Company Identity"
 description: "Canonical public overview of the company's mission, principles, portfolio structure, and disclosure boundaries."
+founder: "Justin Duane Harlan"
 type: reference
 status: review
 owner: "Golden Obsidian LLC"
